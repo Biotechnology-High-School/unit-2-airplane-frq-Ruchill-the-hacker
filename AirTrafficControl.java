@@ -22,7 +22,7 @@ public class AirTrafficControl{
          *  Write a constructor call to create a second plane with the non-default values.
          *  Then write code to get inputs of the correct type for each field for the third plane.
          */
-aaaa
+    System.print.ln("AAA01, 1 mile, north, 0 feet)
 
 
 
